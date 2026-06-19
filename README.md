@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
-
 # Hi 👋, I'm Zain Zahid
 
 ### 🎮 Computer Science Student | Full-Stack Developer | ML Enthusiast
@@ -23,7 +21,7 @@
 
 ### 📌 Currently Working On
 
-- 🏏 **CricketSlot Pro / CricketVault** — Indoor cricket booking systems (PHP+MySQL and Next.js+Prisma versions)
+- 🏏 **CricketSlot** — Indoor cricket court booking system (Next.js 14, Prisma, PostgreSQL, 3D bat & ball with React Three Fiber)
 - 🤖 **Sentiment Battleground** — ML classifier comparison web app (Next.js + Express + FastAPI)
 - 📚 University final exams — Compiler Construction, Mobile App Dev (Flutter), Machine Learning
 - ✍️ LinkedIn content on Web Development & AI
@@ -50,12 +48,17 @@
 
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+</div>
+
+---
+
 ### 🏆 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏏 [CricketSlot Pro](https://github.com/Zainox11) | Indoor cricket booking system with admin panel & Pakistani payment gateways (JazzCash, Easypaisa) | PHP, MySQL |
-| ⚡ [CricketVault](https://github.com/Zainox11) | Premium dark SaaS UI version of cricket booking system | Next.js 14, Prisma, NeonDB |
+| 🏏 [CricketSlot](https://github.com/Zainox11/cricketslot) | Indoor cricket court booking system — mobile-first, 3D bat & ball, no-double-booking logic | Next.js 14, TypeScript, Tailwind, Prisma, PostgreSQL |
 | 🎯 [Sentiment Battleground](https://github.com/Zainox11) | Three-tier ML app comparing 4 scikit-learn classifiers | Next.js, Express, FastAPI |
 | 🍄 [Mushroom Classification](https://github.com/Zainox11/Mushroom-Classification-Project) | ML project comparing Decision Tree, Naive Bayes & ANN — 100% accuracy achieved | Python, scikit-learn |
 | 💸 [ExpenseTracker](https://github.com/Zainox11/ExpenseTracker) | Modern React app for daily expense tracking with category-wise breakdown | React, Tailwind CSS |
@@ -106,8 +109,4 @@
 
 🚀 Master Full-Stack Development &nbsp;|&nbsp; 🤖 Deepen ML/AI expertise &nbsp;|&nbsp; 🏆 Build impactful tech products
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
 </div>
