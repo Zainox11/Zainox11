@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Zain Zahid
+<h1>Hi 👋, I'm Zain Zahid</h1>
 
-### 🎮 Computer Science Student | Full-Stack Developer | ML Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1e90ff&size=24&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student;Full-Stack+Developer+(Next.js+%2B+Prisma);Flutter+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects..%3C3" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Zain-Zahid-Dev&style=flat-square&color=blueviolet" alt="profile views"/>
 
@@ -12,19 +12,16 @@
 
 ### 🧙‍♂️ About Me
 
-- 🎓 BS Computer Science student at **University of Gujrat** (2023–2027)
-- 💻 Passionate about **Full-Stack Development**, **Machine Learning**, and **Mobile App Development**
-- 🛠️ Building real-world projects: booking systems, inventory management, ML web apps, and Flutter apps
-- 🌱 Currently leveling up my DSA skills and exam-pattern problem solving
+- 🎓 BS Computer Science @ **University of Gujrat** (2023–2027)
+- 💻 Full-Stack Dev (Next.js, Prisma, Laravel) | Flutter Developer | ML
+- 🛠️ Building booking systems, ERPs, and ML web apps
 
 ---
 
 ### 📌 Currently Working On
 
-- 🏏 **CricketSlot** — Indoor cricket court booking system (Next.js 14, Prisma, PostgreSQL, 3D bat & ball with React Three Fiber)
-- 🤖 **Sentiment Battleground** — ML classifier comparison web app (Next.js + Express + FastAPI)
-- 📚 University final exams — Compiler Construction, Mobile App Dev (Flutter), Machine Learning
-- ✍️ LinkedIn content on Web Development & AI
+- 🏏 **CricketSlot** — Cricket court booking system (Next.js 14, Prisma)
+- 🛠️ **IronStoreERP** — Desktop POS & accounting system (Python)
 
 ---
 
@@ -58,13 +55,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏏 [CricketSlot](https://github.com/Zainox11/cricketslot) | Indoor cricket court booking system — mobile-first, 3D bat & ball, no-double-booking logic | Next.js 14, TypeScript, Tailwind, Prisma, PostgreSQL |
-| 🎯 [Sentiment Battleground](https://github.com/Zainox11) | Three-tier ML app comparing 4 scikit-learn classifiers | Next.js, Express, FastAPI |
+| 💼 [Job Portal](https://github.com/Zainox11/Job-Portal) | Production-style job portal — seekers & recruiters, resume uploads, analytics charts | Flutter, Riverpod, Firebase, Hive, REST |
+| 🏥 [MediCare Pro](https://github.com/Zainox11/medicare-pro) | Hospital appointment booking app — role-based for patients, doctors & admins | Flutter, Firebase, Material 3 |
+| 🤖 [AI Assistant](https://github.com/Zainox11/AI-Assistant) | ChatGPT-style AI chat app with streaming responses & prompt library | Flutter, Groq, OpenAI, Hive |
+| 🏏 [CricketSlot](https://github.com/Zainox11/cricketslot) | Indoor cricket court booking system — mobile-first, 3D bat & ball | Next.js 14, TypeScript, Prisma, PostgreSQL |
+| 🛠️ [IronStoreERP](https://github.com/Zainox11/IronStoreERP) | Desktop POS, inventory & accounting system with FIFO ledger & thermal printing | Python, CustomTkinter, SQLite |
 | 🍄 [Mushroom Classification](https://github.com/Zainox11/Mushroom-Classification-Project) | ML project comparing Decision Tree, Naive Bayes & ANN — 100% accuracy achieved | Python, scikit-learn |
-| 💸 [ExpenseTracker](https://github.com/Zainox11/ExpenseTracker) | Modern React app for daily expense tracking with category-wise breakdown | React, Tailwind CSS |
-| 🌐 [Portfolio](https://github.com/Zainox11/Portfolio) | Responsive personal portfolio with dark/light theme toggle | HTML, CSS, JavaScript |
 | 🎫 [TicketBookingSystem](https://github.com/Zainox11/TicketBookingSystem) | Console-based event & ticket management with OOP, polymorphism | C++ |
-| 📦 [InventoryManagementSystem](https://github.com/Zainox11/InventoryManagementSystem) | Console-based inventory system with file I/O | C++ |
 
 ---
 
@@ -85,10 +82,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Zainox11/Zainox11/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zainox11&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
 ---
@@ -96,7 +93,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/zain-zahid-b976a731a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/zain-zahid-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://twitter.com/ZainZah65608155" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://leetcode.com/u/ZainZahid/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
