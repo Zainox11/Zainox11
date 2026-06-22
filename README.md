@@ -24,7 +24,6 @@
 
 - 🏏 **CricketSlot** — Cricket court booking system (Next.js 14, Prisma)
 - 🛠️ **IronStoreERP** — Desktop POS & accounting system (Python)
-- 📚 University finals — Compiler Construction, Flutter, ML
 
 ---
 
