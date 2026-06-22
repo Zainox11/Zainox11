@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Zain Zahid</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1e90ff&size=24&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student;Full-Stack+Developer+(Next.js+%2B+Prisma);Flutter+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects..%3C3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1e90ff&size=24&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student;Full-Stack+Developer;Flutter+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects.." alt="Typing SVG" />
 
 <br/>
 
@@ -24,6 +24,7 @@
 
 - 🏏 **CricketSlot** — Cricket court booking system (Next.js 14, Prisma)
 - 🛠️ **IronStoreERP** — Desktop POS & accounting system (Python)
+- 🧠 Following an **AI Engineer roadmap** — deepening ML/LLM skills
 
 ---
 
@@ -84,10 +85,10 @@
 
 ---
 
-### 🏅 GitHub Trophies
+### 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zainox11&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainox11&theme=react-dark&hide_border=true" alt="activity graph" />
 </div>
 
 ---
