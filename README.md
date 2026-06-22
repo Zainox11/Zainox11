@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1e90ff&size=24&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student;Full-Stack+Developer+(Next.js+%2B+Prisma);Flutter+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects..%3C3" alt="Typing SVG" />
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Zain-Zahid-Dev&style=flat-square&color=blueviolet" alt="profile views"/>
 
 </div>
@@ -22,6 +24,7 @@
 
 - 🏏 **CricketSlot** — Cricket court booking system (Next.js 14, Prisma)
 - 🛠️ **IronStoreERP** — Desktop POS & accounting system (Python)
+- 📚 University finals — Compiler Construction, Flutter, ML
 
 ---
 
